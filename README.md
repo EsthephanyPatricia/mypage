@@ -1,2 +1,0 @@
-# mypage
-mi primera pagina 
